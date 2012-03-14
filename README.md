@@ -1,7 +1,7 @@
 AppAware DEV API Examples
 ===========
 
-This project contains sample scripts that integrate with the [AppAware DEV API](http://dev.appaware.com). Before you start please have a look at the guidelines on the website and read the Terms of Service.
+This project contains sample scripts that integrate with the [AppAware DEV API](http://dev.appaware.com). Before you start please have a look at the [examples](http://dev.appaware.com/1/doc/examples.php) on the website and read the Terms of Service.
 
   * [AppAware DEV API](http://dev.appaware.com)
   * [AppAware DEV API Terms of Service](http://dev.appaware.com/tos.php)
