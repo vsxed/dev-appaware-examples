@@ -3,7 +3,7 @@
 /**
  * This is an example of how to integrate AppAware in your application. Read the tutorial and follow the steps described at:
  *
- * http://dev.staging.appaware.com/1/doc/examples/example1.php
+ * http://dev.appaware.com/1/doc/examples/example1.php
  *
  * @author 42matters AG
  * All rights reserved
